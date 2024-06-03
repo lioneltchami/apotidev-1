@@ -5,7 +5,7 @@
                 <div class="col-lg-9">
                     <div class="section-title">
                         <h5 class="subtitle line-theme-color">About Us.</h5>
-                        <h2 class="title"><span>Givest</span> is The Non Profitable Organization.</h2>
+                        <h2 class="title"><span>ADA</span> is The Non Profit Organization.</h2>
                     </div>
                 </div>
             </div>

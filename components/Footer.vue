@@ -82,21 +82,21 @@
                                     <div class="col-6">
                                         <ul class="nav-menu nav">
                                             <li><a href="#">About Us</a></li>
-                                            <li><a href="#">Blog Post Terms</a></li>
+                                            <li><a href="#">Blog</a></li>
                                             <li><a href="#">Conditions</a></li>
                                             <li><a href="#">Privacy Policy</a></li>
                                             <li><a href="#">Documentation</a></li>
-                                            <li><a href="#">Donners</a></li>
+                                            <li><a href="#">Partners</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-6">
                                         <ul class="nav-menu nav align-right">
-                                            <li><a href="#">Become Volunteer</a></li>
-                                            <li><a href="#">Quick Fundraise</a></li>
-                                            <li><a href="#">Give Donation</a></li>
-                                            <li><a href="#">Become Volunteer</a></li>
-                                            <li><a href="#">Food And Water</a></li>
-                                            <li><a href="#">Medical facilities</a></li>
+                                            <li><a href="#">Volunteer</a></li>
+                                            <li><a href="#">View our Causes</a></li>
+                                            <li><a href="#">Donate today</a></li>
+                                            <li><a href="#">Upcoming Events</a></li>
+                                            <li><a href="#">Past Events</a></li>
+                                            <li><a href="#">Our Team</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -112,7 +112,7 @@
                     <div class="row align-items-center">
                         <div class="col-12">
                             <div class="widget-copyright text-center">
-                                <p>&copy; 2023 <span>Givest</span>. Made with <i class="icofont-heart-alt"></i> by <a href="#">HasThemes</a></p>
+                                <p>&copy; 2024 <span>Apoti Dev Assoc</span>. Made with <i class="icofont-heart-alt"></i> by <a href="/">LThemes</a></p>
                             </div>
                         </div>
                     </div>
