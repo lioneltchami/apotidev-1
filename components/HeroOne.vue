@@ -47,7 +47,7 @@
                             <ShapeWithAnimation addClassName="shape-style1" dataDepth="0.3" imgSrc="/images/shape/1.png" />
                             <div class="donate-circle-wrp">
                                 <div class="donate-content">
-                                    <div class="raised-amount">$16K</div>
+                                    <div class="raised-amount">$8K</div>
                                     <img class="line-shape-img" src="/images/shape/line-s2.png" alt="Image">
                                     <h5 class="donate-title">Total Raised</h5>
                                 </div>
