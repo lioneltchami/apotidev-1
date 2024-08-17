@@ -5,9 +5,9 @@
                 <div class="col-lg-6 offset-lg-3 col-xl-4 offset-xl-0">
                     <div class="section-title">
                         <h5 class="subtitle line-theme-color mb-7">Volunteer Team</h5>
-                        <h2 class="title title-style">Volunteer Team of Givest. <img class="img-shape" src="/images/shape/3.png" alt="Image-Givest"></h2>
+                        <h2 class="title title-style">Apoti Dev's Team of Volunteers <img class="img-shape" src="/images/shape/3.png" alt="Image-ADA"></h2>
                         <div class="desc">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry's standard dummy text ever since and unknown printer took scrambled it make specimen book.</p>
+                            <p>Our dedicated volunteers are the heart of our mission, working tirelessly to uplift communities and create lasting positive change. You can join us today. Click below to join us</p>
                             <nuxt-link to="/volunteer" class="btn-theme btn-gradient btn-slide">Join Now <img class="icon icon-img" src="/images/icons/arrow-line-right2.png" alt="Icon"></nuxt-link>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                 teamMembers: [
                     {
                         imgSrc: "/images/team/1.jpg",
-                        name: "Harvey Harrington",
+                        name: "Naomi Praise",
                         designation: "Senior Designer",
                         socialLink: [
                             {
@@ -93,7 +93,7 @@
                     },
                     {
                         imgSrc: "/images/team/2.jpg",
-                        name: "Alejandra Bobbitt",
+                        name: "Vera Buh",
                         designation: "Senior Volunteer",
                         socialLink: [
                             {
@@ -112,7 +112,7 @@
                     },
                     {
                         imgSrc: "/images/team/3.jpg",
-                        name: "Sherika Hankins",
+                        name: "Caleb Ketu",
                         designation: "Senior Developer",
                         socialLink: [
                             {

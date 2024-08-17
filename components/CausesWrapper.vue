@@ -31,7 +31,7 @@
                             </div>
                             <nuxt-link to="/donation" class="btn-theme btn-border-gradient gray-border btn-size-md">
                                 <span>
-                                    Donate Now 
+                                    Help Us
                                     <img class="icon icon-img" src="/images/icons/arrow-line-right-gradient.png" alt="Icon">
                                 </span>
                             </nuxt-link>
@@ -50,37 +50,37 @@
                 causesData: [
                     {
                         imgSrc: "/images/causes/01.jpg",
-                        title: "Need your simple help for save children.",
-                        desc: "Lorem Ipsum is simply dummy text of the industry's since the unknown.",
+                        title: "Help Provide Shelter for Homeless Children",
+                        desc: "We aim to provide safe and secure housing for children who are currently living on the streets.",
                         name: "Kristin Horton",
                         infoList: [
                             {
                                 infoTitle: "Goal",
-                                amount: "$ 5000"
+                                amount: "$ 4500"
                             },
                             {
                                 infoTitle: "Raised",
-                                amount: "$ 2000"
+                                amount: "$ 2500"
                             },
                             {
                                 infoTitle: "To Go",
-                                amount: "$ 1000"
+                                amount: "$ 2000"
                             }
                         ]
                     },
                     {
                         imgSrc: "/images/causes/02.jpg",
-                        title: "Children Education Needs For Change The World.",
-                        desc: "Lorem Ipsum is simply dummy text of the industry's since the unknown.",
+                        title: "Support Education for Underprivileged Kids",
+                        desc: "Your donation will help us provide educational materials and resources to children in need.",
                         name: "Cristian Dominy",
                         infoList: [
                             {
                                 infoTitle: "Goal",
-                                amount: "$ 3000"
+                                amount: "$ 3500"
                             },
                             {
                                 infoTitle: "Raised",
-                                amount: "$ 4000"
+                                amount: "$ 1500"
                             },
                             {
                                 infoTitle: "To Go",
@@ -90,17 +90,17 @@
                     },
                     {
                         imgSrc: "/images/causes/03.jpg",
-                        title: "Need Pure Water For All Mozambique People",
-                        desc: "Lorem Ipsum is simply dummy text of the industry's since the unknown.",
+                        title: "Clean Water for Mozambique Communities",
+                        desc: "We are working to ensure that every person in Mozambique has access to clean and safe drinking water.",
                         name: "Maria Jeccy",
                         infoList: [
                             {
                                 infoTitle: "Goal",
-                                amount: "$ 8000"
+                                amount: "$ 9000"
                             },
                             {
                                 infoTitle: "Raised",
-                                amount: "$ 7000"
+                                amount: "$ 6000"
                             },
                             {
                                 infoTitle: "To Go",
@@ -110,9 +110,29 @@
                     },
                     {
                         imgSrc: "/images/causes/01.jpg",
-                        title: "Need your simple help for save children.",
-                        desc: "Lorem Ipsum is simply dummy text of the industry's since the unknown.",
-                        name: "Kristin Horton",
+                        title: "Medical Supplies for Rural Clinics",
+                        desc: "Providing essential medical supplies to clinics in rural areas to improve healthcare access.",
+                        name: "John Doe",
+                        infoList: [
+                            {
+                                infoTitle: "Goal",
+                                amount: "$ 7000"
+                            },
+                            {
+                                infoTitle: "Raised",
+                                amount: "$ 3000"
+                            },
+                            {
+                                infoTitle: "To Go",
+                                amount: "$ 4000"
+                            }
+                        ]
+                    },
+                    {
+                        imgSrc: "/images/causes/02.jpg",
+                        title: "Food Distribution for Families in Need",
+                        desc: "Ensuring that families in need have access to nutritious food through our distribution programs.",
+                        name: "Jane Smith",
                         infoList: [
                             {
                                 infoTitle: "Goal",
@@ -120,39 +140,19 @@
                             },
                             {
                                 infoTitle: "Raised",
-                                amount: "$ 2000"
+                                amount: "$ 3500"
                             },
                             {
                                 infoTitle: "To Go",
-                                amount: "$ 1000"
-                            }
-                        ]
-                    },
-                    {
-                        imgSrc: "/images/causes/02.jpg",
-                        title: "Children Education Needs For Change The World.",
-                        desc: "Lorem Ipsum is simply dummy text of the industry's since the unknown.",
-                        name: "Cristian Dominy",
-                        infoList: [
-                            {
-                                infoTitle: "Goal",
-                                amount: "$ 3000"
-                            },
-                            {
-                                infoTitle: "Raised",
-                                amount: "$ 4000"
-                            },
-                            {
-                                infoTitle: "To Go",
-                                amount: "$ 2000"
+                                amount: "$ 1500"
                             }
                         ]
                     },
                     {
                         imgSrc: "/images/causes/03.jpg",
-                        title: "Need Pure Water For All Mozambique People",
-                        desc: "Lorem Ipsum is simply dummy text of the industry's since the unknown.",
-                        name: "Maria Jeccy",
+                        title: "Educational Programs for Refugees",
+                        desc: "Supporting educational programs for refugees to help them build a better future.",
+                        name: "Emily Johnson",
                         infoList: [
                             {
                                 infoTitle: "Goal",
@@ -160,7 +160,7 @@
                             },
                             {
                                 infoTitle: "Raised",
-                                amount: "$ 7000"
+                                amount: "$ 5000"
                             },
                             {
                                 infoTitle: "To Go",

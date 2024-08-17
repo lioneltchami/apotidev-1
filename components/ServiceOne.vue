@@ -28,30 +28,30 @@
 </template>
 
 <script>
-    export default {
-        data() {
-            return {
-                services: [
-                    {
-                        icon: "/images/icons/s1.png",
-                        title: "Clean Water",
-                        desc: "Lorem Ipsum is simply dummy text the printing typesetng industry lorem Ipsum has been industry standard dummy text ever since.",
-                        addClassName: "item-one"
-                    },
-                    {
-                        icon: "/images/icons/s2.png",
-                        title: "Healthy Food",
-                        desc: "Lorem Ipsum is simply dummy text the printing typesetng industry lorem Ipsum has been industry standard dummy text ever since.",
-                        addClassName: "item-two"
-                    },
-                    {
-                        icon: "/images/icons/s3.png",
-                        title: "Medical Help",
-                        desc: "Lorem Ipsum is simply dummy text the printing typesetng industry lorem Ipsum has been industry standard dummy text ever since.",
-                        addClassName: "item-three"
-                    }
-                ]
-            }
+export default {
+  data() {
+    return {
+      services: [
+        {
+          icon: "/images/icons/s1.png",
+          title: "Quality Training",
+          desc: "Providing essential skills and knowledge to empower the more vulnerable for future success.",
+          addClassName: "item-one"
         },
-    };
+        {
+          icon: "/images/icons/s2.png",
+          title: "Healthy Food",
+          desc: "Ensuring access to nutritious meals for better health and well-being for everyone.",
+          addClassName: "item-two"
+        },
+        {
+          icon: "/images/icons/s3.png",
+          title: "Medical Help",
+          desc: "Offering crucial medical assistance and healthcare services to those in dire need of it.",
+          addClassName: "item-three"
+        }
+      ]
+    }
+  },
+};
 </script>

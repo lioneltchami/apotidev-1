@@ -9,7 +9,7 @@
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <div class="section-title">
-                                            <h5 class="subtitle line-theme-color">Contact Now</h5>
+                                            <h5 class="subtitle line-theme-color">Contact Us Now</h5>
                                             <h2 class="title">Get In Touch.</h2>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting typesetting remaining essentially unchanged.</p>
                                         </div>
@@ -40,7 +40,7 @@
                                             </div>
                                             <div class="col-md-12">
                                                 <div class="form-group mb-0">
-                                                    <button class="btn-theme btn-gradient btn-slide no-border" type="submit">Submit Now</button>
+                                                    <button class="btn-theme btn-gradient btn-slide no-border" type="submit">Send Message</button>
                                                 </div>
                                             </div>
                                         </div>
@@ -68,8 +68,8 @@
                                     <div class="content">
                                         <h4>Email</h4>
                                         <img class="line-icon" src="/images/shape/line-s1.png" alt="Image-Givest">
-                                        <a href="mailto://support@gmail.com">support@gmail.com</a>
-                                        <a href="mailto://example@gmail.com">example@gmail.com</a>
+                                        <a href="mailto://info@apotidev.org">info@apotidev.org</a>
+                                        <a href="mailto://volunteer@apotidev.org">volunteer@apotidev.org</a>
                                     </div>
                                 </div>
                                 <div class="contact-info-item mb-0 pb-0">
@@ -79,7 +79,7 @@
                                     <div class="content">
                                         <h4>Address</h4>
                                         <img class="line-icon" src="/images/shape/line-s1.png" alt="Image-Givest">
-                                        <p>Your address goes here <br>Your address goes here</p>
+                                        <p>140 10th Ave SW, Calgary, CA <br>17 Street NW Clerks Quaters, Buea, CMR</p>
                                     </div>
                                 </div>
                             </div>
@@ -93,7 +93,10 @@
 </template>
 
 <script>
+    import Volunteer from "~/pages/volunteer.vue";
+
     export default {
+      components: {Volunteer}
 
     };
 </script>

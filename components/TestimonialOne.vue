@@ -5,10 +5,10 @@
                 <div class="col-md-12 col-lg-4 col-xl-5 position-static">
                     <div class="title-wrp" :style="{ backgroundImage: `url('/images/testimonial/bg-testi1.jpg')` }">
                         <div class="section-title">
-                            <h5 class="subtitle line-white-color text-white mb-7">Recent Events</h5>
+                            <h5 class="subtitle line-white-color text-white mb-7">Testimonials</h5>
                             <h2 class="title title-style text-white">
-                                What People Say About Us. 
-                                <img class="img-shape" src="/images/shape/3.png" alt="Image-Givest">
+                                What do People Say About Us ?
+                                <img class="img-shape" src="/images/shape/3.png" alt="Image-ADA">
                             </h2>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                                             <p>{{ testimonial.desc }}</p>
                                         </div>
                                         <div class="client-info">
-                                            <img class="shape-line-img" src="/images/shape/line-t1.png" alt="Image-Givest">
+                                            <img class="shape-line-img" src="/images/shape/line-t1.png" alt="Image-ADA">
                                             <h4 class="name">{{ testimonial.name }}</h4>
                                             <h6 class="designation">{{ testimonial.designation }}</h6>
                                         </div>
@@ -81,15 +81,21 @@
                 testimonials: [
                     {
                         imgSrc: "/images/testimonial/1.png",
-                        desc: "The leap into electronic typesetting, essentially unchanged was popularised the release Letraset sheets containing and more recently desktop publishing like Aldus maker including.",
-                        name: "Harvey Harrington",
+                        desc: "Joining the team has been an incredible journey, witnessing firsthand the positive impact we make in communities through our dedicated efforts and outreach programs.",
+                        name: "Marquise Bell",
                         designation: "Senior Volunteer"
                     },
                     {
                         imgSrc: "/images/testimonial/2.png",
-                        desc: "It is long established fact that reader will distract by the readable content a page when looking atten layout. The point of using  and that it has a normal distribution of letters",
-                        name: "Julia Steve",
+                        desc: "Being part of this organization has shown me the power of community and collaboration. Together, we strive to create meaningful change and support those in need.",
+                        name: "Thelma Abonkeng",
                         designation: "Junior Volunteer"
+                    },
+                    {
+                      imgSrc: "/images/testimonial/1.png",
+                      desc: "Volunteering here has opened my eyes to the power of community. Every project brings new challenges and rewarding experiences.",
+                      name: "Ashley Hayek",
+                      designation: "Junior Volunteer"
                     }
                 ]
             }

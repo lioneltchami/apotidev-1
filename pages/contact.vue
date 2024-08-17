@@ -2,7 +2,7 @@
     <div class="contact-page-wrapper">
         <Header />
         <OffCanvasMobileMenu />
-        <Breadcrumb items="Contact" title="Contact" />
+        <Breadcrumb items="Contact" title="Contact Us" />
         <ContactWrapper />
         <Footer />
     </div>

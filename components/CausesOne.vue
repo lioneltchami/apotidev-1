@@ -5,7 +5,7 @@
                 <div class="col-lg-8 m-auto">
                     <div class="section-title text-center" data-aos="fade-up" data-aos-duration="1000">
                         <h5 class="subtitle line-theme-color">Check Causes</h5>
-                        <h2 class="title title-style">Donate For Poor People. Causes of Givest 
+                        <h2 class="title title-style">Serve with us. <br> Some of our causes.
                             <img class="img-shape" src="/images/shape/3.png" alt="Image">
                         </h2>
                     </div>
@@ -32,16 +32,16 @@
                         <div class="causes-footer">
                             <div class="admin">
                                 <h5>
-                                    <nuxt-link to="/causes">
+                                    <nuxt-link to="/blog">
                                         <span class="icon-img">
                                             <img src="/images/icons/admin1.png" alt="Icon">
                                         </span> {{ causes.name }}
                                     </nuxt-link>
                                 </h5>
                             </div>
-                            <nuxt-link to="/donation" class="btn-theme btn-border-gradient gray-border btn-size-md">
+                            <nuxt-link to="/causes-details" class="btn-theme btn-border-gradient gray-border btn-size-md">
                                 <span>
-                                    Donate Now 
+                                    Read More
                                     <img class="icon icon-img" src="/images/icons/arrow-line-right-gradient.png" alt="Icon">
                                 </span>
                             </nuxt-link>
@@ -60,8 +60,8 @@
                 causesData: [
                     {
                         imgSrc: "/images/causes/01.jpg",
-                        title: "Children Education Needs For Change The World.",
-                        desc: "Lorem Ipsum is simply dummy text of the industry's since the unknown.",
+                        title: "Primary school Education for Orphans",
+                        desc: "Providing basic education to orphans, ensuring they have a chance to succeed.",
                         name: "Kristin Horton",
                         infoList: [
                             {
@@ -80,8 +80,8 @@
                     },
                     {
                         imgSrc: "/images/causes/02.jpg",
-                        title: "Need your simple help for save children.",
-                        desc: "Lorem Ipsum is simply dummy text of the industry's since the unknown.",
+                        title: "Food items and Clothes for older Widows",
+                        desc: "Offering essential food and clothing to older widows in need of support.",
                         name: "Cristian Dominy",
                         infoList: [
                             {
@@ -100,8 +100,8 @@
                     },
                     {
                         imgSrc: "/images/causes/03.jpg",
-                        title: "Need Pure Water For All Mozambique People",
-                        desc: "Lorem Ipsum is simply dummy text of the industry's since the unknown.",
+                        title: "Skill acquisition program for the young adults",
+                        desc: "Equipping young adults with skills for employment, fostering independence.",
                         name: "Maria Jeccy",
                         infoList: [
                             {

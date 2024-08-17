@@ -5,7 +5,7 @@
                 <div class="col-md-8 col-lg-6 m-auto">
                     <div class="section-title text-center" data-aos="fade-up" data-aos-duration="1000">
                         <h5 class="subtitle line-theme-color">Blog Post</h5>
-                        <h2 class="title title-style">Latest News From Givest Blog <img class="img-shape" src="/images/shape/3.png" alt="Image-Givest"></h2>
+                        <h2 class="title title-style">Latest News From our Blog <img class="img-shape" src="/images/shape/3.png" alt="Image-ADA"></h2>
                     </div>
                 </div>
             </div>
@@ -66,9 +66,9 @@
                         imgSrc: "/images/blog/1.jpg",
                         metaDate: 15,
                         metaMonth: "June",
-                        category: "Education",
-                        title: "Save Children Life For Future.",
-                        desc: "Lorem Ipsum is simply dummy text industry since unknown..",
+                        category: "Finances",
+                        title: "Why do people really donate? Ever wondered ?",
+                        desc: "Understanding the motivations behind donations to better connect with potential supporters.",
                         socials: [
                             {
                                 icon: "icofont-facebook",
@@ -97,8 +97,8 @@
                         metaDate: 10,
                         metaMonth: "July",
                         category: "Health",
-                        title: "Need your help for children.",
-                        desc: "Lorem Ipsum is simply dummy text industry since unknown..",
+                        title: "Technology grants for nonprofits",
+                        desc: "Explore available technology grants and discounts to enhance your non-profit's operations.",
                         socials: [
                             {
                                 icon: "icofont-facebook",
@@ -127,8 +127,8 @@
                         metaDate: 17,
                         metaMonth: "March",
                         category: "Water",
-                        title: "Need Pure Water For All People",
-                        desc: "Lorem Ipsum is simply dummy text industry since unknown..",
+                        title: "Is Your Website Truly Working for Your Non-Profit?",
+                        desc: "Evaluate your website's effectiveness in engaging supporters and achieving your non-profit's goals.",
                         socials: [
                             {
                                 icon: "icofont-facebook",

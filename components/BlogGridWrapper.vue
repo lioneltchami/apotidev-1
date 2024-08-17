@@ -83,7 +83,7 @@
                         category: "Education",
                         author: "Marinda Roderick",
                         title: "Children education needs for change the world.",
-                        desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has industry's standard dummy text ever since the 1500 an when an unknown printer took a galley scrambled it to make a type specimen book.",
+                        desc: "Education is key to change. Empowering children with knowledge and skills can transform communities and create lasting impact for future generations.",
                     },
                     {
                         imgSrc: "/images/blog/g2.jpg",
@@ -92,7 +92,7 @@
                         category: "Health",
                         author: "Maria Merry",
                         title: "Need school for mozambique children.",
-                        desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has industry's standard dummy text ever since the 1500 an when an unknown printer took a galley scrambled it to make a type specimen book.",
+                        desc: "Access to education is vital for Mozambique's youth. Building schools and providing resources can help secure a brighter future for these children.",
                     },
                     {
                         imgSrc: "/images/blog/g3.jpg",
@@ -101,7 +101,7 @@
                         category: "Water",
                         author: "Robbin",
                         title: "Need pure water for all people",
-                        desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has industry's standard dummy text ever since the 1500 an when an unknown printer took a galley scrambled it to make a type specimen book.",
+                        desc: "Clean water is a basic human right. Initiatives to provide safe and pure water can improve health and quality of life for all communities.",
                     },
                     {
                         imgSrc: "/images/blog/g4.jpg",
@@ -110,7 +110,7 @@
                         category: "Health",
                         author: "Uzzal Hossain",
                         title: "Save Children Life For Future.",
-                        desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has industry's standard dummy text ever since the 1500 an when an unknown printer took a galley scrambled it to make a type specimen book.",
+                        desc: "Protecting children's health is crucial for the future. Efforts to improve healthcare access can save lives and empower the next generation.",
                     },
                 ]
             }

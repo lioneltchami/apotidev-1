@@ -2,7 +2,7 @@
     <div class="volunteer-page-wrapper">
         <Header />
         <OffCanvasMobileMenu />
-        <Breadcrumb items="Become volunteer" title="Become volunteer" />
+        <Breadcrumb items="Become volunteer" title="Volunteering" />
         <VolunteerForm />
         <TeamTwo />
         <FunFactOne />

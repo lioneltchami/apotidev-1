@@ -6,7 +6,7 @@
                     <div class="section-title" data-aos="fade-up" data-aos-duration="1000">
                         <h5 class="subtitle line-theme-color mb-7">Recent Events</h5>
                         <h2 class="title title-style">
-                            Join Recent Fundraising Event Of Givest. 
+                            Our previous Events.
                             <img class="img-shape" src="/images/shape/3.png" alt="Image">
                         </h2>
                     </div>
@@ -15,14 +15,14 @@
                             <div class="thumb">
                                 <img class="thumb-img" src="/images/events/1.jpg" alt="Image">
                                 <nuxt-link to="/event-details" class="btn-theme btn-gradient btn-size-sm">
-                                    Join Now 
+                                    Read on
                                     <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">
                                 </nuxt-link>
                             </div>
                             <div class="content">
                                 <div class="event-info">15 January 2021  // <span>Education</span></div>
                                 <h4 class="event-name">
-                                    <nuxt-link to="/event-details">Need School For Mozambique Children.</nuxt-link>
+                                    <nuxt-link to="/event-details">Sponsoring orphans to High School, Buea (CMR)</nuxt-link>
                                 </h4>
                             </div>
                         </div>
@@ -30,14 +30,14 @@
                             <div class="thumb">
                                 <img class="thumb-img" src="/images/events/2.jpg" alt="Image">
                                 <nuxt-link to="/event-details" class="btn-theme btn-gradient btn-size-sm">
-                                    Join Now 
+                                    Read on
                                     <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">
                                 </nuxt-link>
                             </div>
                             <div class="content">
                                 <div class="event-info">15 January 2021  // <span>Education</span></div>
                                 <h4 class="event-name">
-                                    <nuxt-link to="/event-details">Need School For Mozambique Children.</nuxt-link>
+                                    <nuxt-link to="/event-details">Providing food items to widows, Bamenda (CMR)</nuxt-link>
                                 </h4>
                             </div>
                         </div>
@@ -45,14 +45,14 @@
                             <div class="thumb">
                                 <img class="thumb-img" src="/images/events/3.jpg" alt="Image">
                                 <nuxt-link to="/event-details" class="btn-theme btn-gradient btn-size-sm">
-                                    Join Now 
+                                    Read on
                                     <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">
                                 </nuxt-link>
                             </div>
                             <div class="content">
                                 <div class="event-info">15 January 2021  // <span>Education</span></div>
                                 <h4 class="event-name">
-                                    <nuxt-link to="/event-details">Need School For Mozambique Children.</nuxt-link>
+                                    <nuxt-link to="/event-details">Teenage girls bootcamp training, Bamenda (CMR)</nuxt-link>
                                 </h4>
                             </div>
                         </div>
@@ -91,3 +91,14 @@
         </div>
     </section>
 </template>
+
+<script>
+function addTag(tagName) {
+  var newTag = document.createElement('div');
+  newTag.className = 'tag';
+  newTag.textContent = tagName;
+  document.querySelector('.event-info').appendChild(newTag);
+}
+
+// Example usage: addTag('Science');
+</script>

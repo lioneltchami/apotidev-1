@@ -9,9 +9,9 @@
                                 <nuxt-link to="/" class="footer-logo">
                                     <img src="/images/logo/logo.png" alt="Logo">
                                 </nuxt-link>
-                                <p>Lorem Ipsum is simply dummy text of the industry orem Ipsum has been the industry's since the when unknown.</p>
+                                <p>Our mission is to support communities in need. Join us in making a difference and spreading hope where it's most needed.</p>
                                 <div class="widget-total-raised">
-                                    <h4 class="raised-title">Total Raised:</h4>
+                                    <h4 class="raised-title">Total Contributed:</h4>
                                     <div class="raised-amount">$8,965</div>
                                 </div>
                             </div>
@@ -19,7 +19,7 @@
                     </div>
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4 mt-40">
                         <div class="widget-item">
-                            <h4 class="widget-title line-style">Gallery</h4>
+                            <h4 class="widget-title line-style">Photo Gallery</h4>
                             <div class="widget-gallery">
                                 <div class="row row-cols-3 row-gutter-10 mtn-10">
                                     <div class="col mt-10">
@@ -112,7 +112,7 @@
                     <div class="row align-items-center">
                         <div class="col-12">
                             <div class="widget-copyright text-center">
-                                <p>&copy; 2024 <span>Apoti Dev Assoc</span>. Made with <i class="icofont-heart-alt"></i> by <a href="/">LThemes</a></p>
+                                <p>&copy; 2024 <span>Apoti Dev Association</span> Made with <i class="icofont-heart-alt"></i> by <a href="https://devcloudninjas.com">DevCloud Ninjas</a></p>
                             </div>
                         </div>
                     </div>

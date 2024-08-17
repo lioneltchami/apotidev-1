@@ -10,14 +10,14 @@
                                 <h6>Change The World.</h6>
                             </div>
                             <div class="tittle-wrp">
-                                <h2>Need Your Big Hand For <span>Change</span> The World.</h2>
+                                <h2>Need Your Big Hand To <span>Impact</span> The World.</h2>
                             </div>
                             <div class="btn-wrp">
                                 <nuxt-link to="/causes" class="btn-theme btn-gradient btn-slide btn-style">
                                     All Causes 
                                     <img class="icon icon-img" src="/images/icons/arrow-line-right2.png" alt="Icon">
                                 </nuxt-link>
-                                <nuxt-link to="/contact" class="btn-theme btn-border btn-black btn-style">
+                                <nuxt-link to="/donation" class="btn-theme btn-border btn-black btn-style">
                                     Donate Now 
                                     <img class="icon icon-img" src="/images/icons/arrow-right-line-dark.png" alt="Icon">
                                 </nuxt-link>
@@ -47,7 +47,7 @@
                             <ShapeWithAnimation addClassName="shape-style1" dataDepth="0.3" imgSrc="/images/shape/1.png" />
                             <div class="donate-circle-wrp">
                                 <div class="donate-content">
-                                    <div class="raised-amount">$865M</div>
+                                    <div class="raised-amount">$16K</div>
                                     <img class="line-shape-img" src="/images/shape/line-s2.png" alt="Image">
                                     <h5 class="donate-title">Total Raised</h5>
                                 </div>

@@ -5,7 +5,7 @@
                 <div class="col-lg-8 m-auto">
                     <div class="section-title text-center">
                         <h5 class="subtitle line-theme-color mb-7">Volunteer Team</h5>
-                        <h2 class="title title-style">Talented Volunteer Team of Givest. <img class="img-shape" src="/images/shape/3.png" alt="Image-Givest"></h2>
+                        <h2 class="title title-style">Our Volunteers <img class="img-shape" src="/images/shape/3.png" alt="Image-ADA"></h2>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@
                 teamMembers: [
                     {
                         imgSrc: "/images/team/1.jpg",
-                        name: "Harvey Harrington",
+                        name: "Naomi Praise",
                         designation: "Senior Designer",
                         url: "#",
                         socialLink: [
@@ -55,7 +55,7 @@
                     },
                     {
                         imgSrc: "/images/team/2.jpg",
-                        name: "Alejandra Bobbitt",
+                        name: "Vera Buh",
                         designation: "Senior Volunteer",
                         url: "#",
                         socialLink: [
@@ -75,7 +75,7 @@
                     },
                     {
                         imgSrc: "/images/team/3.jpg",
-                        name: "Sherika Hankins",
+                        name: "Caleb Ketu",
                         designation: "Senior Developer",
                         url: "#",
                         socialLink: [
@@ -95,7 +95,7 @@
                     },
                     {
                         imgSrc: "/images/team/4.jpg",
-                        name: "Destiny Kendall",
+                        name: "Brenda Itoe",
                         designation: "Marketing Manager",
                         url: "#",
                         socialLink: [
@@ -115,7 +115,7 @@
                     },
                     {
                         imgSrc: "/images/team/5.jpg",
-                        name: "Marleen Larry",
+                        name: "Hannah Worship",
                         designation: "PHP Expert",
                         url: "#",
                         socialLink: [
@@ -135,7 +135,7 @@
                     },
                     {
                         imgSrc: "/images/team/6.jpg",
-                        name: "Digital Marketer",
+                        name: "Yasmin Bhanji",
                         designation: "Senior Developer",
                         url: "#",
                         socialLink: [

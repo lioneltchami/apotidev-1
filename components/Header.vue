@@ -23,7 +23,7 @@
                                 </button>
                             </div>
                             <nuxt-link to="/contact" class="btn-theme btn-gradient btn-slide btn-style">
-                                Give Support 
+                                Serve with Us!
                                 <img class="icon icon-img" src="/images/icons/arrow-line-right2.png" alt="Icon">
                             </nuxt-link>
                         </div>

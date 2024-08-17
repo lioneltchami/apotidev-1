@@ -2,7 +2,7 @@
     <div class="main-container">
         <Header />
         <OffCanvasMobileMenu />
-        <Breadcrumb items="Causes" title="Causes" />
+        <Breadcrumb items="Causes" title="Our Causes" />
         <CausesWrapper />
         <FunFactOne />
         <TestimonialOne />
