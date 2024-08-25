@@ -16,16 +16,17 @@
           </ul>
         </li>
         <!--BLOG-->
-        <li class="has-submenu">
-          <nuxt-link to="/blog">Blog</nuxt-link>
-          <ul class="submenu-nav">
-            <li>
-              <nuxt-link to="/blog">Blog</nuxt-link>
-            </li>
-            <li>
-              <nuxt-link to="/blog-details">Blog Details</nuxt-link>
-            </li>
-          </ul>
+        <li>
+          <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer">Blog</a>
+<!--          <nuxt-link to="https://apotidev.substack.com/">Blog</nuxt-link>-->
+<!--          <ul class="submenu-nav">-->
+<!--            <li>-->
+<!--              <nuxt-link to="/blog">Blog</nuxt-link>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--              <nuxt-link to="/blog-details">Blog Details</nuxt-link>-->
+<!--            </li>-->
+<!--          </ul>-->
         </li>
       <!--Event Details-->
         <li class="has-submenu">
