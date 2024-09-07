@@ -15,26 +15,26 @@
                                 </li>
                             </ul>
                             <h4 class="title">
-                                <nuxt-link to="/causes-details">{{ causes.title }}</nuxt-link>
+                                <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer">{{ causes.title }}</a>
                             </h4>
                             <p>{{ causes.desc }}</p>
                         </div>
                         <div class="causes-footer">
                             <div class="admin">
                                 <h5>
-                                    <nuxt-link to="/causes">
+                                    <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer">
                                         <span class="icon-img">
                                             <img src="/images/icons/admin1.png" alt="Icon">
                                         </span> {{ causes.name }}
-                                    </nuxt-link>
+                                    </a>
                                 </h5>
                             </div>
-                            <nuxt-link to="/donation" class="btn-theme btn-border-gradient gray-border btn-size-md">
+                            <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer" class="btn-theme btn-border-gradient gray-border btn-size-md">
                                 <span>
                                     Help Us
                                     <img class="icon icon-img" src="/images/icons/arrow-line-right-gradient.png" alt="Icon">
                                 </span>
-                            </nuxt-link>
+                            </a>
                         </div>
                     </div>
                 </div>

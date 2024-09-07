@@ -10,7 +10,7 @@
                                 <h6>Change The World.</h6>
                             </div>
                             <div class="tittle-wrp">
-                                <h2>Need Your Big Hand To <span>Impact</span> The World.</h2>
+                                <h2>Need Your Help To <span>Impact</span> Our World.</h2>
                             </div>
                             <div class="btn-wrp">
                                 <nuxt-link to="/causes" class="btn-theme btn-gradient btn-slide btn-style">

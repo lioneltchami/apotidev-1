@@ -14,45 +14,45 @@
                         <div class="event-item">
                             <div class="thumb">
                                 <img class="thumb-img" src="/images/events/1.jpg" alt="Image">
-                                <nuxt-link to="/event-details" class="btn-theme btn-gradient btn-size-sm">
-                                    Read on
-                                    <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">
-                                </nuxt-link>
+                                <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer" class="btn-theme btn-gradient btn-size-sm">
+                                  Read on
+                                  <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">
+                                </a>
                             </div>
                             <div class="content">
                                 <div class="event-info">15 January 2021  // <span>Education</span></div>
                                 <h4 class="event-name">
-                                    <nuxt-link to="/event-details">Sponsoring orphans to High School, Buea (CMR)</nuxt-link>
+                                  <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer">Sponsoring orphans to High School, Buea (CMR)</a>
                                 </h4>
                             </div>
                         </div>
                         <div class="event-item">
                             <div class="thumb">
                                 <img class="thumb-img" src="/images/events/2.jpg" alt="Image">
-                                <nuxt-link to="/event-details" class="btn-theme btn-gradient btn-size-sm">
-                                    Read on
-                                    <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">
-                                </nuxt-link>
+                                <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer" class="btn-theme btn-gradient btn-size-sm">
+                                  Read on
+                                  <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">
+                                </a>
                             </div>
                             <div class="content">
                                 <div class="event-info">15 January 2021  // <span>Education</span></div>
                                 <h4 class="event-name">
-                                    <nuxt-link to="/event-details">Providing food items to widows, Bamenda (CMR)</nuxt-link>
+                                    <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer">Providing food items to widows, Bamenda (CMR)</a>
                                 </h4>
                             </div>
                         </div>
                         <div class="event-item">
                             <div class="thumb">
                                 <img class="thumb-img" src="/images/events/3.jpg" alt="Image">
-                                <nuxt-link to="/event-details" class="btn-theme btn-gradient btn-size-sm">
-                                    Read on
-                                    <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">
-                                </nuxt-link>
+                                <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer" class="btn-theme btn-gradient btn-size-sm">
+                                  Read on
+                                  <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">
+                                </a>
                             </div>
                             <div class="content">
                                 <div class="event-info">15 January 2021  // <span>Education</span></div>
                                 <h4 class="event-name">
-                                    <nuxt-link to="/event-details">Teenage girls bootcamp training, Bamenda (CMR)</nuxt-link>
+                                    <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer">Teenage girls bootcamp training, Bamenda (CMR)</a>
                                 </h4>
                             </div>
                         </div>

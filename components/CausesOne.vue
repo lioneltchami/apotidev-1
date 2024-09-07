@@ -32,7 +32,7 @@
                         <div class="causes-footer">
                             <div class="admin">
                                 <h5>
-                                    <nuxt-link to="/blog">
+                                    <nuxt-link to="/causes-details">
                                         <span class="icon-img">
                                             <img src="/images/icons/admin1.png" alt="Icon">
                                         </span> {{ causes.name }}

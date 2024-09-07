@@ -15,10 +15,10 @@
                                 <img src="/images/shape/line-s1.png" alt="shape" />
                             </div>
                             <p>{{ service.desc }}</p>
-                            <nuxt-link to="/causes-details" class="btn-theme btn-white btn-border btn-size-md">
-                                View Details
-                                <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon" />
-                            </nuxt-link>
+                          <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer" class="btn-theme btn-white btn-border btn-size-md">
+                            View Details
+                            <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon" />
+                          </a>
                         </div>
                     </div>
                 </div>

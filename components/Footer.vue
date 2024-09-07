@@ -81,22 +81,18 @@
                                 <div class="row">
                                     <div class="col-6">
                                         <ul class="nav-menu nav">
-                                            <li><a href="#">About Us</a></li>
-                                            <li><a href="#">Blog</a></li>
-                                            <li><a href="#">Conditions</a></li>
-                                            <li><a href="#">Privacy Policy</a></li>
-                                            <li><a href="#">Documentation</a></li>
-                                            <li><a href="#">Partners</a></li>
+                                            <li><a href="/causes">Causes</a></li>
+                                            <li><a href="/volunteer">Gallery</a></li>
+                                            <li><a href="/privacy-policy">Privacy Policy</a></li>
+                                            <li><a href="/volunteer">Project Reports</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-6">
                                         <ul class="nav-menu nav align-right">
-                                            <li><a href="#">Volunteer</a></li>
-                                            <li><a href="#">View our Causes</a></li>
-                                            <li><a href="#">Donate today</a></li>
-                                            <li><a href="#">Upcoming Events</a></li>
-                                            <li><a href="#">Past Events</a></li>
-                                            <li><a href="#">Our Team</a></li>
+                                            <li><a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer">Blog</a></li>
+                                            <li><a href="/donation">Donate</a></li>
+                                            <li><a href="/event-details">Events</a></li>
+                                            <li><a href="/volunteer">Volunteer</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -112,7 +108,7 @@
                     <div class="row align-items-center">
                         <div class="col-12">
                             <div class="widget-copyright text-center">
-                                <p>&copy; 2024 <span>Apoti Dev Association</span> Made with <i class="icofont-heart-alt"></i> by <a href="https://devcloudninjas.com">DevCloud Ninjas</a></p>
+                                <p>&copy; 2024 <span>Apoti Dev Association</span> Made with <i class="icofont-heart-alt"></i> by <a href="https://apotitech.com">Apoti Tech Inc</a></p>
                             </div>
                         </div>
                     </div>

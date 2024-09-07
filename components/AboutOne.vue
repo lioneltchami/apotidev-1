@@ -34,7 +34,7 @@
                             <li class="line-center"></li>
                             <li><img class="icon-img" src="/images/icons/check-double-line.png" alt="Image"> Baby Steps to <br>giant strides. </li>
                         </ul>
-                        <nuxt-link to="/volunteer" class="btn-theme btn-gradient btn-slide">Serve with us <img class="icon icon-img" src="/images/icons/arrow-line-right2.png" alt="Icon"></nuxt-link>
+                        <nuxt-link to="/about" class="btn-theme btn-gradient btn-slide">Read More <img class="icon icon-img" src="/images/icons/arrow-line-right2.png" alt="Icon"></nuxt-link>
                     </div>
                 </div>
             </div>

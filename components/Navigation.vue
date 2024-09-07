@@ -28,17 +28,14 @@
 <!--            </li>-->
 <!--          </ul>-->
         </li>
-      <!--Event Details-->
-        <li class="has-submenu">
-          <nuxt-link to="/event-details">Event</nuxt-link>
-          <ul class="submenu-nav">
-            <li>
-              <nuxt-link to="/event-details">Event Details</nuxt-link>
-            </li>
-            <li>
-              <nuxt-link to="/donation">Donation</nuxt-link>
-            </li>
-          </ul>
+      <!--Gallery Details-->
+        <li>
+          <nuxt-link to="/event-details">Gallery</nuxt-link>
+<!--          <ul class="submenu-nav">-->
+<!--            <li>-->
+<!--              <nuxt-link to="/event-details">Event Details</nuxt-link>-->
+<!--            </li>-->
+<!--          </ul>-->
         </li>
       <!--Partner with Us-->
         <li class="has-submenu">

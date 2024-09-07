@@ -13,18 +13,18 @@
                 <div class="col-md-6 col-lg-4 mt-150" v-for="(blog, index) in blogs" :key="index">
                     <div class="post-item">
                         <div class="thumb">
-                            <nuxt-link to="/blog-details">
+                            <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer">
                                 <img :src="blog.imgSrc" :alt="blog.title">
-                            </nuxt-link>
+                            </a>
                             <div class="meta-date">
-                                <nuxt-link to="/blog"><span>{{ blog.metaDate }}</span> {{ blog.metaMonth }}</nuxt-link>
+                                <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer"><span>{{ blog.metaDate }}</span> {{ blog.metaMonth }}</a>
                             </div>
                             <div class="shape-line"></div>
                         </div>
                         <div class="content">
                             <div class="inner-content">
                                 <div class="meta">
-                                    <nuxt-link to="/blog" class="post-category">{{ blog.category }}</nuxt-link>
+                                    <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer">{{ blog.category }}</a>
                                     <div class="post-share">
                                         <button class="icon-share">
                                             <img src="/images/icons/share-line-gradient.png" alt="Icon">
@@ -39,15 +39,15 @@
                                     </div>
                                 </div>
                                 <h4 class="title">
-                                    <nuxt-link to="/blog-details">{{ blog.title }}</nuxt-link>
+                                    <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer">{{ blog.title }}</a>
                                 </h4>
                                 <p>{{ blog.desc }}</p>
                             </div>
                             <div class="post-footer">
-                                <nuxt-link to="/blog-details" class="btn-theme btn-border-gradient btn-size-xs">
+                                <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer" class="btn-theme btn-border-gradient btn-size-xs">
                                     <span>Details <img class="icon icon-img" src="/images/icons/arrow-line-right-gradient.png" alt="Icon"></span>
-                                </nuxt-link>
-                                <nuxt-link to="/blog" class="post-author">By: Robbins</nuxt-link>
+                                </a>
+                                <a href="https://apotidev.substack.com/" target="_blank" rel="noopener noreferrer" class="post-author">By: Robbins</a>
                             </div>
                         </div>
                     </div>
